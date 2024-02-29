@@ -10,7 +10,3 @@ O AluraBooks é um projeto de site responsivo desenvolvido como parte do aprendi
 ## Como Usar
 
 Para usar este projeto, basta clonar este repositório em sua máquina local e abrir o arquivo `index.html` em seu navegador web favorito.
-
-
-
-"# alurabooks" 
